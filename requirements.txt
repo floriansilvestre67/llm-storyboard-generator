@@ -1,0 +1,19 @@
+# Core IA & Deep Learning
+torch
+torchvision
+diffusers
+transformers
+accelerate
+bitsandbytes
+
+# API Cloud
+google-generativeai
+python-dotenv
+
+# Interface & Web
+streamlit
+pillow
+requests
+
+# Utilitaires
+pydantic

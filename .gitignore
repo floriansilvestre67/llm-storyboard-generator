@@ -1,0 +1,30 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Variables d'environnement (Sécurité !)
+.env
+
+# Modèles IA (Éviter de pusher des fichiers de plusieurs Go)
+models/
+*.bin
+*.safetensors
+*.pth
+*.onnx
+
+# Données et sorties
+data/output/
+*.png
+*.jpg
+*.pdf
+
+# IDE
+.vscode/
+.idea/
