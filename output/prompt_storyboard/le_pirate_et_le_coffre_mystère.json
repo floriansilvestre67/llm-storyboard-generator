@@ -1,0 +1,22 @@
+{
+    "titre": "Le pirate et le coffre mystère",
+    "characters_description": [
+        {
+            "Nom du perso : description physique détaillée": "Le pirate : un homme d'environ 40 ans, avec une barbe noire longue et des yeux bleus. Il porte une chemise blanche et des vêtements de peau pour se protéger du soleil."
+        },
+        {
+            "Nom du perso : description physique détaillée": "Le squelette : un squelette décomposé, avec des os brisés et des tissus putrides. Il porte des vêtements écaillés et sa peau est grise et sèche."
+        }
+    ],
+    "storyboard": [
+        {
+            "scene_number": 1,
+            "visual_description": "Une plage déserte avec du sable blanc et des rochers granitiques. Le pirate se dirige vers un coffre en bois, qu'il a découvert dans le sable. Soudain, un squelette sort du sable et se met debout à quelques pas du pirate.",
+            "characters": [
+                "Le pirate",
+                "Le squelette"
+            ],
+            "camera_angle": "plan médian"
+        }
+    ]
+}

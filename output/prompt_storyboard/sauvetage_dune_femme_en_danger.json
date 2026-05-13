@@ -1,0 +1,73 @@
+{
+    "titre": "Sauvetage d'une femme en danger",
+    "characters_description": [
+        {
+            "Nom du perso": {
+                "Super-Héros": {
+                    "âge": 25,
+                    "vêtements": "costume de super héros",
+                    "traits distinctifs": "ceinture"
+                },
+                "La Femme en danger": {
+                    "âge": 30,
+                    "vêtements": "vêtements normaux",
+                    "traits distinctifs": "peur et désespoir"
+                }
+            }
+        }
+    ],
+    "storyboard": [
+        {
+            "scene_number": 1,
+            "visual_description": "Un jour de soleil à la ville. La Femme en danger, âgée de 30 ans, est attaquée par un groupe de bandits dans une rue déserte.",
+            "characters": [
+                "La Femme en danger",
+                "Super-Héros"
+            ],
+            "camera_angle": "plan frontal"
+        },
+        {
+            "scene_number": 2,
+            "visual_description": "Le Super-Héros, âgé de 25 ans, arrive sur les lieux du crime. Il est vêtu d'un costume bleu et rouge, équipé d'une ceinture brillante.",
+            "characters": [
+                "Super-Héros"
+            ],
+            "camera_angle": "plan haute"
+        },
+        {
+            "scene_number": 3,
+            "visual_description": "La Femme en danger est terrifiée. Le Super-Héros s'approche de ses victimes et leur demande de se mettre à genoux.",
+            "characters": [
+                "Super-Héros",
+                "La Femme en danger"
+            ],
+            "camera_angle": "plan bas"
+        },
+        {
+            "scene_number": 4,
+            "visual_description": "Les bandits, menacés par la présence du Super-Héros, fuient à toutes jambes. Le Super-Héros les poursuit jusqu'à ce qu'ils disparaissent dans une rue adjacent.",
+            "characters": [
+                "Super-Héros",
+                "Les bandits"
+            ],
+            "camera_angle": "plan en mouvement"
+        },
+        {
+            "scene_number": 5,
+            "visual_description": "La Femme en danger, un peu calme, remercie le Super-Héros de son intervention. Le Super-Héros lui sourit et lui tend la main pour l'aider à se relever.",
+            "characters": [
+                "Super-Héros",
+                "La Femme en danger"
+            ],
+            "camera_angle": "plan frontal"
+        },
+        {
+            "scene_number": 6,
+            "visual_description": "Le Super-Héros regarde autour de lui, s'assurant qu'il n'y a plus d'ennemis. Il lève son regard vers le ciel et se prépare à partir.",
+            "characters": [
+                "Super-Héros"
+            ],
+            "camera_angle": "plan haute"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "titre": "Le pirate et le coffre magique",
+    "characters_description": [
+        {
+            "Nom du perso": "Jean-Pierre : homme âgé de 40 ans, vêtu d'un costume de pirate bruni et décoloré, les yeux pétillants à cause des quelques semaines sans bain."
+        },
+        {
+            "Nom du perso": "Squelette : un squelette avec la tête recouverte par une serviette bleue, les bras coupés et les jambes cassées"
+        }
+    ],
+    "storyboard": [
+        {
+            "scene_number": 1,
+            "visual_description": "Une plage déserte à l'horizon. Jean-Pierre est debout, la main sur le coffre en bois, l'air émerveillé.",
+            "characters": [
+                "Jean-Pierre",
+                "Squelette"
+            ],
+            "camera_angle": "plan sur les deux personnages"
+        },
+        {
+            "scene_number": 2,
+            "visual_description": "Le coffre commence à trembler et le sable qui l'entoure se souvrit de s'envoler. Un squelette sort du sable.",
+            "characters": [
+                "Jean-Pierre",
+                "Squelette"
+            ],
+            "camera_angle": "plan sur le coffre et le squelette"
+        },
+        {
+            "scene_number": 3,
+            "visual_description": "Jean-Pierre recule, les yeux écarquillés. Le squelette s'approche de lui, les bras étendus.",
+            "characters": [
+                "Jean-Pierre",
+                "Squelette"
+            ],
+            "camera_angle": "plan sur le visage du Jean-Pierre et la tête du Squelette"
+        }
+    ]
+}

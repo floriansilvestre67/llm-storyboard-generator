@@ -1,0 +1,39 @@
+{
+    "titre": "La Sauvetage du Super-Héros",
+    "characters_description": [
+        {
+            "Nom du perso": "Alex",
+            "âge": 25,
+            "vêtements": "Costume de super-héros noir et blanc, maillot de vol, pantalon noir et ceinture en cuir."
+        },
+        {
+            "Nom du perso": "Sophie",
+            "âge": 28,
+            "vêtements": "Vêtements civils : chemise blanche, pantalon bleu et chaussettes noires."
+        }
+    ],
+    "storyboard": [
+        {
+            "scene_number": 1,
+            "visual_description": "Un plan aérien du centre-ville où se trouve Sophie. Alex est visible en train de voler à basse altitude.",
+            "characters": [
+                "Alex",
+                "Sophie"
+            ],
+            "camera_angle": "Pansorama"
+        },
+        {
+            "scene_number": 2,
+            "visual_description": "Sophie est attaquée par un groupe d'hommes armés. Elle cherche des ailes pour fuir."
+        },
+        {
+            "scene_number": 3,
+            "visual_description": "Alex se positionne et utilise son super-vitesse pour arrêter les attaquants de Sophie.",
+            "characters": [
+                "Alex",
+                "Sophie"
+            ],
+            "camera_angle": "Caméra en vol"
+        }
+    ]
+}

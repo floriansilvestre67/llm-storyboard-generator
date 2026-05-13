@@ -1,0 +1,59 @@
+{
+    "titre": "Sauvetage de la femme en danger",
+    "characters_description": [
+        {
+            "Nom du perso : description physique détaillée": {
+                "nom": "Fleur",
+                "âge": 30,
+                "vêtements": "Une combattante habillée d'un costume bleu avec des ailes de fer pour augmenter ses capacités physiques",
+                "traits distinctifs": "Des yeux verts brillants"
+            }
+        }
+    ],
+    "storyboard": [
+        {
+            "scene_number": 1,
+            "visual_description": "Un bâtiment en feu dans un centre commercial. Des feux d'artifice éclatent partout et des gens paniqués fuyent la scène.",
+            "characters": [
+                "Fleur",
+                "Léo"
+            ],
+            "camera_angle": "plan aérien"
+        },
+        {
+            "scene_number": 2,
+            "visual_description": "La combattante Fleur se précipite vers l'entrée du bâtiment. Léo la suit de près.",
+            "characters": [
+                "Fleur",
+                "Léo"
+            ],
+            "camera_angle": "plan médium"
+        },
+        {
+            "scene_number": 3,
+            "visual_description": "La combattante Fleur est entraînée dans l'incendie. Les flammes la font faire pivoter et elle s'accroche aux murs pour éviter de tomber.",
+            "characters": [
+                "Fleur"
+            ],
+            "camera_angle": "plan bas"
+        },
+        {
+            "scene_number": 4,
+            "visual_description": "Léo saute à travers les fenêtres et atteint Fleur, l'attirant vers une porte de secours",
+            "characters": [
+                "Léo",
+                "Fleur"
+            ],
+            "camera_angle": "plan aérien"
+        },
+        {
+            "scene_number": 5,
+            "visual_description": "La combattante Fleur est enfin hors du bâtiment. Léo la soutient et s'assure qu'elle soit en sécurité.",
+            "characters": [
+                "Léo",
+                "Fleur"
+            ],
+            "camera_angle": "plan médium"
+        }
+    ]
+}
