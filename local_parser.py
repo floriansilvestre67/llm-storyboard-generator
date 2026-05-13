@@ -6,7 +6,7 @@ def parse_script_local(script_text):
     # L'URL par défaut où Ollama écoute
     url = "http://localhost:11434/api/generate"
     
-    # Le prompt système pour forcer le JSON
+    # Le prompte système pour forcer le JSON
     prompt = f"""
     Tu es un assistant de storyboard professionnel. Analyse le script suivant et décompose-le en scènes.
     
